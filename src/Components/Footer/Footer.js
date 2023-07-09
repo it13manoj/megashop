@@ -15,7 +15,7 @@ function Footer() {
 						<h2 className="footer-top-head-w3l font-weight-bold mb-2">Electronics :</h2>
 						<p className="footer-main mb-4">
 							If you're considering a new laptop, looking for a powerful new car stereo or shopping for a new HDTV, we make it easy to
-							find exactly what you need at a price you can afford. We offer Every Day Low Prices on TVs, laptops, cell phones, tablets
+							you need at a price you can afford. We offer Every Day Low Prices on TVs, laptops, cell phones, tablets
 							and iPads, video games, desktop computers, cameras and camcorders, audio, video and more.</p>
 						<div className="row w3l-grids-footer border-top border-bottom py-sm-4 py-3">
 							<div className="col-md-4 offer-footer">
