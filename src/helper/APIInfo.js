@@ -1,5 +1,5 @@
-const SERVER_LINK = "http://localhost:5000/api";
-const SERVER_IMAGES = "https://api.wdpcare.com";
+const SERVER_LINK = "http://mega-shop.co.in/api";
+const SERVER_IMAGES = "http://mega-shop.co.in";
 export const REQUEST_TYPE = {
   GET: "GET",
   POST: "POST",
