@@ -24,7 +24,7 @@ function TopHead(){
 								<i className="fas fa-truck mr-2"></i>Track Order</a>
 						</li>
 						<li className="text-center border-right text-white">
-							<i className="fas fa-phone mr-2"></i> 001 234 5678
+							<i className="fas fa-phone mr-2"></i> 09340334221
 						</li>
 						<li className="text-center border-right text-white">
 							<a href="#" data-toggle="modal" data-target="#exampleModal" className="text-white">

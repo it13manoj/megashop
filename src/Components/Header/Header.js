@@ -30,8 +30,8 @@ function Header() {
           <div className="row header-bot_inner_wthreeinfo_header_mid">
             <div className="col-md-3 logo_agile">
               <h1 className="text-center">
-                <a href="index.html" className="font-weight-bold font-italic">
-                  <img src={"/web/images/logo2.png"} alt=" " className="img-fluid" />Mega Shpos
+                <a href="/" className="font-weight-bold font-italic">
+                  <img src={"/web/images/favicon.png"} alt=" " className="img-fluid" />
                 </a>
               </h1>
             </div>
