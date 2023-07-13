@@ -1,5 +1,5 @@
-const SERVER_LINK = "http://mega-shop.co.in/api";
-const SERVER_IMAGES = "http://mega-shop.co.in";
+const SERVER_LINK = "http://api.mega-shop.co.in/api";
+const SERVER_IMAGES = "http://api.mega-shop.co.in";
 export const REQUEST_TYPE = {
   GET: "GET",
   POST: "POST",
